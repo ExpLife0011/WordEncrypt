@@ -1,0 +1,17 @@
+TARGETNAME=S_Crypt
+TARGETTYPE=DRIVER
+DRIVERTYPE=FS
+TARGETPATH=obj
+
+TARGETLIBS= $(TARGETLIBS) \
+            $(IFSKIT_LIB_PATH)\fltMgr.lib
+
+SOURCES=S_Crypt.c \
+	expand.c \
+        S_Crypt.rc \
+        S_GlobalFunc.c \
+        S_File.c \
+        S_Ctx.c \
+        S_Cache.c
+	
+        

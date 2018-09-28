@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S_Crypt", "S_Crypt\S_Crypt.vcproj", "{4EC1C5EA-32CD-4114-82EC-8C74A1969FF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S_Crypt_Test", "S_Crypt_Test\S_Crypt_Test.vcproj", "{5FBF39FE-E886-4841-AA12-99F3BF271C41}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S_Crypt_DLL", "S_Crypt_Dll\S_Crypt_Dll.vcproj", "{36FB848C-6541-48D8-B30F-90D39D14E476}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecoverTool", "RecoverTool\RecoverTool.vcproj", "{8F81DC64-0083-4388-A819-692F4E8658CC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RestoreTool", "RestoreTool\RestoreTool.vcproj", "{831D5F2D-3EB3-4D55-819C-84E26AE2C401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release_TRACE|Win32 = Release_TRACE|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC1C5EA-32CD-4114-82EC-8C74A1969FF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EC1C5EA-32CD-4114-82EC-8C74A1969FF0}.Debug|Win32.Build.0 = Debug|Win32
+		{4EC1C5EA-32CD-4114-82EC-8C74A1969FF0}.Release_TRACE|Win32.ActiveCfg = Release|Win32
+		{4EC1C5EA-32CD-4114-82EC-8C74A1969FF0}.Release_TRACE|Win32.Build.0 = Release|Win32
+		{4EC1C5EA-32CD-4114-82EC-8C74A1969FF0}.Release|Win32.ActiveCfg = Release|Win32
+		{4EC1C5EA-32CD-4114-82EC-8C74A1969FF0}.Release|Win32.Build.0 = Release|Win32
+		{5FBF39FE-E886-4841-AA12-99F3BF271C41}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FBF39FE-E886-4841-AA12-99F3BF271C41}.Debug|Win32.Build.0 = Debug|Win32
+		{5FBF39FE-E886-4841-AA12-99F3BF271C41}.Release_TRACE|Win32.ActiveCfg = Release|Win32
+		{5FBF39FE-E886-4841-AA12-99F3BF271C41}.Release_TRACE|Win32.Build.0 = Release|Win32
+		{5FBF39FE-E886-4841-AA12-99F3BF271C41}.Release|Win32.ActiveCfg = Release|Win32
+		{5FBF39FE-E886-4841-AA12-99F3BF271C41}.Release|Win32.Build.0 = Release|Win32
+		{36FB848C-6541-48D8-B30F-90D39D14E476}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36FB848C-6541-48D8-B30F-90D39D14E476}.Debug|Win32.Build.0 = Debug|Win32
+		{36FB848C-6541-48D8-B30F-90D39D14E476}.Release_TRACE|Win32.ActiveCfg = Release_TRACE|Win32
+		{36FB848C-6541-48D8-B30F-90D39D14E476}.Release_TRACE|Win32.Build.0 = Release_TRACE|Win32
+		{36FB848C-6541-48D8-B30F-90D39D14E476}.Release|Win32.ActiveCfg = Release|Win32
+		{36FB848C-6541-48D8-B30F-90D39D14E476}.Release|Win32.Build.0 = Release|Win32
+		{8F81DC64-0083-4388-A819-692F4E8658CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F81DC64-0083-4388-A819-692F4E8658CC}.Debug|Win32.Build.0 = Debug|Win32
+		{8F81DC64-0083-4388-A819-692F4E8658CC}.Release_TRACE|Win32.ActiveCfg = Release|Win32
+		{8F81DC64-0083-4388-A819-692F4E8658CC}.Release_TRACE|Win32.Build.0 = Release|Win32
+		{8F81DC64-0083-4388-A819-692F4E8658CC}.Release|Win32.ActiveCfg = Release|Win32
+		{8F81DC64-0083-4388-A819-692F4E8658CC}.Release|Win32.Build.0 = Release|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Debug|Win32.ActiveCfg = Debug|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Debug|Win32.Build.0 = Debug|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Release_TRACE|Win32.ActiveCfg = Release|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Release_TRACE|Win32.Build.0 = Release|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Release|Win32.ActiveCfg = Release|Win32
+		{831D5F2D-3EB3-4D55-819C-84E26AE2C401}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
