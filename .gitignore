@@ -1,2 +1,20 @@
 
 WordEncrypt.ncb
+*.exe
+*.ilk
+*.pdb
+*.exp
+*.htm
+*.dep
+*.obj
+*.manifest
+*.res
+*.idb
+*.pch
+*.log
+*.wrn
+*.mac
+*.xml
+*.sys
+debug/S_Crypt_DLL.lib
+debug/S_Crypt_DLL.dll
